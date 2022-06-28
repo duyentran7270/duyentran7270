@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nguyen Tran
 - 👀 I’m interested in applying machine learning method on medicine and finance/banking industry. 
 - 🌱 I’m currently learning Deep Learning, Neural Network and NLP
-- 💞️ I’m looking to collaborate on medicine and investment projects. 
+- 💞️ I’m looking to collaborate on any interesting projects, especially in medicine and investment projects. 
 - 📫 Feel free to contact me at tntd7270@gmail.com
 
 <!---
